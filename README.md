@@ -1,2 +1,0 @@
-# Mobilize
-Created with CodeSandbox
